@@ -1,7 +1,7 @@
 # joyboy.github.io
 
 <h2>About This Page</h2>
-<p>This is a simple static webpage that provides a brief introduction to who I am, my interests, and my professional background. It also highlights some of my favorite tech gadgets.</p>
+<p>This is a simple static webpage that provides a brief introduction to who I am, my interests, and my professional background. In this page, I mainly highlight some of my favorite tech items.</p>
 
 <h2>Technologies Used</h2>
 <ul>
@@ -12,6 +12,7 @@
 </ul>
 
 <h2>Repository Structure</h2>
+<p>This outlines my repository structure.</p>
 <pre>
 my-static-site/
 │── assets/
@@ -26,9 +27,7 @@ my-static-site/
 │── index.html
 │── README.md
 │── .gitignore
-
-
-  
+</pre>
 <h2>How to View the Page</h2>
 <p>Once deployed, the page will be accessible at:</p>
-<pre>https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/</pre>
+<pre>https//jax.demascus.github.io/joyboy.github.io/</pre>
